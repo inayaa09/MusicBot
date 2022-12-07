@@ -1,10 +1,10 @@
 module.exports = {
 TOKEN: "MTA1MDA3MDIxNTYxNjExNDc5OA.GRrtP4.X27BTG_C1NhzciNLA-pejvEepn_aQU7BCuJtSs",
-ownerID: "981655069399351398, 800036864852492309, 1034591353960665238, ", //write your discord user id.
+ownerID: "981655069399351398, 800036864852492309, 1034591353960665238, 511101692037693441", //write your discord user id.
 botInvite: "", //write your discord bot invite.
-supportServer: "", //write your discord bot support server invite.
+supportServer: "https://discord.gg/hexonfire", //write your discord bot support server invite.
 mongodbURL: "", //write your mongodb url.
-status: '❤️ codeshare.me',
+status: '❤️ HEXONFIRE',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it
 embedColor: "ffa954", //hex color code
